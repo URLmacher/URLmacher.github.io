@@ -92,7 +92,6 @@ a {
 .header__text {
   font-size: 1.8rem;
   margin: 0;
-  padding: 0;
 }
 
 /* MAIN */
@@ -147,13 +146,11 @@ td {
 }
 
 .section__title {
-  color: var(--color-headline);
   margin: 0;
   margin-bottom: 16px;
 }
 
 .section__text {
-  color: var(--color-text);
   margin: 0;
   margin-bottom: 6px;
 }
