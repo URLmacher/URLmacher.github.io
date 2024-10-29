@@ -1,0 +1,1 @@
+const s="office@rentafritz.com",t="0433333/20519",a="+43(0)3333/20 519",c="0664/41 28 588",o="043664/4128588",E="dsb@dsb.gv.at",_="patrick@chax.at",O="https://www.facebook.com/people/Rentafritz/100042755932699/",n=[8,9,10,11,12,13,14,15,16,17,18],I=48;export{n as B,s as E,O as L,o as P,I as S,c as a,E as b,t as c,a as d,_ as e};
