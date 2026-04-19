@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<template>
+ <object name="Desk" type="DeskSlotted" width="32" height="47">
+  <properties>
+   <property name="type" value="right"/>
+  </properties>
+ </object>
+</template>

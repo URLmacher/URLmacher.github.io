@@ -1,33 +1,38 @@
-🎯 Vacation V
+## urlaubsantrag26
 
-An interactive twist on vacation approvals.
-✨ What is it?
+urlaubsantrag26 is an interactive application designed to support the vacation approval process.
 
-Vacation V is a playful web app where managers approve vacation requests by shooting vacation days off a calendar grid in a fun mini-game. It turns routine HR tasks into something engaging and memorable.
+In this system, approval is no longer granted through conventional means. Instead, the responsible party must complete a verification task: collecting all calendar entries within a given level. Only after all items have been gathered is the vacation request considered valid and eligible for approval.
 
-⚙️ Built With
+The application reframes a routine administrative process as an interactive task:
 
-    🎮 TresJS – 3D scenes in Vue, powered by Three.js
+A level contains multiple calendar items representing scheduled obligations
+The user navigates the environment to collect all entries
+Completion of the collection process serves as confirmation
+Until completion, the request remains pending
 
-    ⚡ Quasar Framework – Fast, responsive UI
+This approach ensures that all relevant commitments are acknowledged before approval.
 
-    🧠 Vue 3 + TypeScript with <script setup>
+# The project is built using the following technologies:
+Vue.js
+Excalibur.js
 
-🚀 Getting Started
+# Credits
+Based on (Jelly Jumper)[https://github.com/excaliburjs/sample-jelly-jumper]
+Player and NPC avatars by [chax.at](https://chax.at/)
+Drone dog sprite by [LeoTheLionKnight](https://leothelionknight.itch.io/free-drone-dog-sprite)
+Cat animation by [Bow.Pixel](https://bowpixel.itch.io/meow-cat-85-animation)
+Music & SFX by [Subspace Audio](https://itch.io/profile/subspaceaudio)
 
-git clone https://github.com/URLmacher/vacation_v.git
-cd vacation_v
+
+## Install dependencies:
 npm install
-quasar dev
 
-🧩 Features
+## Development:
+npm start
 
-    Submit vacation requests
+## Build for production:
+npm run build
 
-    Playable approval game (shoot days off calendar!)
-
-    Smooth animations and responsive design
-
-📄 License
-
-MIT – Have fun, tweak it, and make it yours.
+## Linting
+npm run lint
