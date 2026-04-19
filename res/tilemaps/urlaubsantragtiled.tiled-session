@@ -1,0 +1,141 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "level1.tmx",
+    "expandedProjectPaths": [
+        "templates/npc",
+        ".",
+        "templates/slotted",
+        "templates/hazards",
+        "templates/platforms",
+        "templates",
+        "templates/items",
+        "templates/enemies",
+        "templates/triggers"
+    ],
+    "file.lastUsedOpenFilter": "Alle Dateien (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "level1.tmx": {
+            "expandedObjectLayers": [
+                2,
+                5,
+                9,
+                7,
+                3
+            ],
+            "scale": 2,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 670,
+                "y": 774.75
+            }
+        },
+        "level1.tmx#Sprite-0001": {
+            "scaleInDock": 2
+        },
+        "level1.tmx#bath": {
+            "scaleInDock": 2
+        },
+        "level1.tmx#c_raum": {
+            "scaleInDock": 1
+        },
+        "level1.tmx#digidoo_raum": {
+            "scaleInDock": 1
+        },
+        "level1.tmx#hallways": {
+            "scaleInDock": 1
+        },
+        "level1.tmx#kitchen": {
+            "scaleInDock": 1
+        },
+        "level1.tmx#pat_raum": {
+            "scaleInDock": 1
+        },
+        "level1.tmx#scifi_platformTiles_32x32": {
+            "scaleInDock": 1
+        },
+        "level1.tmx#simons_office": {
+            "scaleInDock": 1
+        },
+        "level1.tmx#tileset": {
+            "scaleInDock": 1
+        },
+        "level1.tmx#u_raum": {
+            "scaleInDock": 1
+        },
+        "level1.tmx#wall_background": {
+            "scaleInDock": 2
+        },
+        "level1.tmx#wall_tileset": {
+            "scaleInDock": 2
+        },
+        "level2.tmx": {
+            "expandedObjectLayers": [
+                2,
+                3
+            ],
+            "scale": 1,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 23,
+                "y": 447.5
+            }
+        },
+        "level2.tmx#tileset": {
+            "scaleInDock": 1
+        },
+        "level3.tmx": {
+            "expandedObjectLayers": [
+                18,
+                10,
+                6,
+                2
+            ],
+            "scale": 1.5,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 3004.6666666666665,
+                "y": 296.3333333333333
+            }
+        },
+        "level3.tmx#Placeholder": {
+            "scaleInEditor": 1
+        },
+        "level3.tmx#scifi_platformTiles_32x32": {
+            "scaleInDock": 3
+        },
+        "level3.tmx#tileset": {
+            "scaleInDock": 1
+        }
+    },
+    "last.externalTilesetPath": "C:/Users/durla/Desktop/urlaubsantrag26/public/res/images",
+    "last.imagePath": "C:/Users/durla/Desktop/urlaubsantrag26/public/res/images/custom",
+    "map.height": 260,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 260,
+    "openFiles": [
+        "level1.tmx",
+        "level3.tmx"
+    ],
+    "project": "urlaubsantragtiled.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "level3.tmx",
+        "level1.tmx",
+        "level2.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.lastUsedFilter": "Alle Dateien (*)",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}

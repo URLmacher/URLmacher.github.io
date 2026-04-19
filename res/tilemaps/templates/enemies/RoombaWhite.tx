@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<template>
+    <object name="Roomba" type="RoombaEnemy">
+        <properties>
+            <property name="type" value="white" />
+        </properties>
+        <point />
+    </object>
+</template>

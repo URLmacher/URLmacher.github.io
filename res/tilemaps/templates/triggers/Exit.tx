@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<template>
+    <object name="Exit" type="Exit" width="48" height="48">
+        <properties>
+          <property name="nextLevel" value="level2" />
+        </properties>
+    </object>
+</template>
