@@ -6,14 +6,14 @@
     "activeFile": "level1.tmx",
     "expandedProjectPaths": [
         "templates/npc",
-        ".",
         "templates/slotted",
-        "templates/hazards",
-        "templates/platforms",
+        ".",
+        "templates/triggers",
         "templates",
+        "templates/platforms",
+        "templates/hazards",
         "templates/items",
-        "templates/enemies",
-        "templates/triggers"
+        "templates/enemies"
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
@@ -23,17 +23,17 @@
         },
         "level1.tmx": {
             "expandedObjectLayers": [
-                2,
-                5,
-                9,
+                3,
                 7,
-                3
+                2,
+                9,
+                5
             ],
             "scale": 2,
-            "selectedLayer": 4,
+            "selectedLayer": 6,
             "viewCenter": {
-                "x": 670,
-                "y": 774.75
+                "x": 487.5,
+                "y": 319.75
             }
         },
         "level1.tmx#Sprite-0001": {
@@ -92,16 +92,16 @@
         },
         "level3.tmx": {
             "expandedObjectLayers": [
-                18,
-                10,
                 6,
-                2
+                2,
+                18,
+                10
             ],
             "scale": 1.5,
             "selectedLayer": 6,
             "viewCenter": {
-                "x": 3004.6666666666665,
-                "y": 296.3333333333333
+                "x": 2103,
+                "y": 240
             }
         },
         "level3.tmx#Placeholder": {
